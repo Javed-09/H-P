@@ -53,7 +53,7 @@ const HPB_CONFIG = {
      see README.md §6. ---------------------------------------------------- */
   DELETE_PROTECTION: {
     ENABLED: true,
-    PASSWORD: ""                   /* "" = use the SETTINGS_LOCK password */
+    PASSWORD: "Deleteonly"                   /* "" = use the SETTINGS_LOCK password */
   },
 
   /* Initial branches (13 of 15 pre-loaded).
