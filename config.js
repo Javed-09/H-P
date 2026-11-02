@@ -96,7 +96,7 @@ const HPB_CONFIG = {
 
   DELIVERY_PLATFORMS: [
     "Not applicable", "Talabat", "Deliveroo", "Careem",
-    "Noon", "Zomato", "In-store", "Other"
+    "Noon", "Keeta", "In-store", "Other"
   ],
 
   /* When true and no APPS_SCRIPT_URL is configured, the site falls back to
